@@ -1,5 +1,10 @@
 {
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "personalblog",
+  "author": "sagar jauhari",
+  "private": true,
   "scripts": {
     "postinstall": "npm install express"
-  },
+  }
 }
