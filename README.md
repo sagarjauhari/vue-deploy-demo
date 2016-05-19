@@ -1,6 +1,10 @@
 # Vue Heroku deploy demo
 
-> personalblog
+Repo accompanying the blog post [Quick-n-clean way to deploy Vue + Webpack apps on Heroku
+](https://medium.com/@sagarjauhari/quick-n-clean-way-to-deploy-vue-webpack-apps-on-heroku-b522d3904bc8#.xexhdzg4x)
+
+- [dist/server.js](dist/server.js)
+- [dist/package.json](dist/package.json)
 
 ## Build Setup
 
@@ -13,15 +17,6 @@ npm run dev
 
 # build for production with minification
 npm run build
-
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
 
 # deploy dist folder to Heroku
 npm run deploy
